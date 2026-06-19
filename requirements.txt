@@ -1,0 +1,12 @@
+opencv-python
+ultralytics
+facenet-pytorch
+deep-sort-realtime
+streamlit
+sqlalchemy
+pymysql
+pandas
+plotly
+Pillow
+numpy
+twilio
